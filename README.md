@@ -57,64 +57,13 @@
     </td>
   </tr>
 </table>
-<h3>📁 Featured Projects</h3>
-<table width="100%" style="table-layout: fixed; border-spacing: 12px 0; margin: 0 -12px;">
-   <colgroup>
-    <col style="width: 50%">
-    <col style="width: 50%">
-  </colgroup>
-  <tr style="border:none;">
-    <td style="border:none;">
-      <table width="100%">
-        <tr>
-          <td>
-            <h4>📱 Swimming Club Management System</h4>
-          </td>
-          <td>
-            <div style="border: 1px solid #0039a2; 
-            border-radius: 50px; 
-            background: #002a938f; 
-            width: max-content;
-            padding-inline: 10px;">
-              🔒Private
-            </div>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td style="border:none;">
-      <h4>🏠 Custom Home Assistant Dashboard</h4>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;">
-      <p>
-        Application written in Flutter (frontend) and Kotlin (backend) to digitalize club management.
-        Handles registration for club events and competitions, member management, training attendance and more.
-      </p>
-        <a href="https://app.sv-hockenheim.de">🔗 Website</a> ·
-        <a href="mailto:demo@sv-hockenheim.de">▶ Demo</a>
-    </td>
-    <td style="border:none; vertical-align: top;">
-      A custom-built Home Assistant dashboard that uses the HA RESTful API
-      to fetch data and control smart-home devices.
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;">
-      <img src="https://img.shields.io/badge/Flutter-0d1b2a?style=flat-square&logo=flutter&logoColor=54c5f8" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Kotlin-0d1b2a?style=flat-square&logo=kotlin&logoColor=b44dff" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Mobile-0d1b2a?style=flat-square&logo=android&logoColor=3ddc84" alt="Mobile" />
-        <img src="https://img.shields.io/badge/Backend-0d1b2a?style=flat-square&logo=spring&logoColor=6db33f" alt="Backend" />
-    </td>
-    <td style="border:none;">
-      <img src="https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat-square&logo=homeassistant&logoColor=18bcf2" alt="Home Assistant" />
-        <img src="https://img.shields.io/badge/JavaScript-0d1b2a?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/API-0d1b2a?style=flat-square&logo=swagger&logoColor=85ea2d" alt="API" />
-        <img src="https://img.shields.io/badge/Smart_Home-0d1b2a?style=flat-square" alt="Smart Home" />
-    </td>
-  </tr>
-</table>
+
+### 📁 Featured Projects
+
+| 📱 **Swimming Club Management System** ![Private](https://img.shields.io/badge/%F0%9F%94%92_Private-002a93?style=flat-square) | 🏠 **Custom Home Assistant Dashboard** |
+| --- | --- |
+| Application written in Flutter (frontend) and Kotlin (backend) to digitalize club management. Handles registration for club events and competitions, member management, training attendance and more.<br><br>[🔗 Website](https://app.sv-hockenheim.de) · [▶ Demo](mailto:demo@sv-hockenheim.de) | A custom-built Home Assistant dashboard that uses the HA RESTful API to fetch data and control smart-home devices.<br><br>*Personal project.* |
+| ![Flutter](https://img.shields.io/badge/Flutter-0d1b2a?style=flat-square&logo=flutter&logoColor=54c5f8) ![Kotlin](https://img.shields.io/badge/Kotlin-0d1b2a?style=flat-square&logo=kotlin&logoColor=b44dff) ![Mobile](https://img.shields.io/badge/Mobile-0d1b2a?style=flat-square&logo=android&logoColor=3ddc84) ![Backend](https://img.shields.io/badge/Backend-0d1b2a?style=flat-square&logo=spring&logoColor=6db33f) | ![Home Assistant](https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat-square&logo=homeassistant&logoColor=18bcf2) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=flat-square&logo=javascript&logoColor=f7df1e) ![API](https://img.shields.io/badge/API-0d1b2a?style=flat-square&logo=swagger&logoColor=85ea2d) ![Smart Home](https://img.shields.io/badge/Smart_Home-0d1b2a?style=flat-square) |
 
 <table width="100%">
   <tr>
