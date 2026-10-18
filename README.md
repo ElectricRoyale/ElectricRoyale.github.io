@@ -60,10 +60,21 @@
 
 ### 📁 Featured Projects
 
-| 📱 **Swimming Club Management System** ![Private](https://img.shields.io/badge/%F0%9F%94%92_Private-002a93?style=flat-square)<br><img src="assets/spacer.svg" width="3000" height="1" alt=""> | 🏠 **Custom Home Assistant Dashboard**<br><img src="assets/spacer.svg" width="3000" height="1" alt=""> |
-| --- | --- |
-| Application written in Flutter (frontend) and Kotlin (backend) to digitalize club management. Handles registration for club events and competitions, member management, training attendance and more.<br><br>[🔗 Website](https://app.sv-hockenheim.de) · [▶ Demo](mailto:demo@sv-hockenheim.de) | A custom-built Home Assistant dashboard that uses the HA RESTful API to fetch data and control smart-home devices.<br><br>*Personal project.* |
-| ![Flutter](https://img.shields.io/badge/Flutter-0d1b2a?style=flat-square&logo=flutter&logoColor=54c5f8) ![Kotlin](https://img.shields.io/badge/Kotlin-0d1b2a?style=flat-square&logo=kotlin&logoColor=b44dff) ![Mobile](https://img.shields.io/badge/Mobile-0d1b2a?style=flat-square&logo=android&logoColor=3ddc84) ![Backend](https://img.shields.io/badge/Backend-0d1b2a?style=flat-square&logo=spring&logoColor=6db33f) | ![Home Assistant](https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat-square&logo=homeassistant&logoColor=18bcf2) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=flat-square&logo=javascript&logoColor=f7df1e) ![API](https://img.shields.io/badge/API-0d1b2a?style=flat-square&logo=swagger&logoColor=85ea2d) ![Smart Home](https://img.shields.io/badge/Smart_Home-0d1b2a?style=flat-square) |
+> #### 📱 Swimming Club Management System &nbsp; ![Private](https://img.shields.io/badge/%F0%9F%94%92_Private-002a93?style=flat-square)
+>
+> Application written in Flutter (frontend) and Kotlin (backend) to digitalize club management. Handles registration for club events and competitions, member management, training attendance and more.
+>
+> [🔗 Website](https://app.sv-hockenheim.de) · [▶ Demo](mailto:demo@sv-hockenheim.de)
+>
+> ![Flutter](https://img.shields.io/badge/Flutter-0d1b2a?style=flat-square&logo=flutter&logoColor=54c5f8) ![Kotlin](https://img.shields.io/badge/Kotlin-0d1b2a?style=flat-square&logo=kotlin&logoColor=b44dff) ![Mobile](https://img.shields.io/badge/Mobile-0d1b2a?style=flat-square&logo=android&logoColor=3ddc84) ![Backend](https://img.shields.io/badge/Backend-0d1b2a?style=flat-square&logo=spring&logoColor=6db33f)
+
+> #### 🏠 Custom Home Assistant Dashboard
+>
+> A custom-built Home Assistant dashboard that uses the HA RESTful API to fetch data and control smart-home devices.
+>
+> *Personal project.*
+>
+> ![Home Assistant](https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat-square&logo=homeassistant&logoColor=18bcf2) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=flat-square&logo=javascript&logoColor=f7df1e) ![API](https://img.shields.io/badge/API-0d1b2a?style=flat-square&logo=swagger&logoColor=85ea2d) ![Smart Home](https://img.shields.io/badge/Smart_Home-0d1b2a?style=flat-square)
 
 <table width="100%">
   <tr>
