@@ -78,25 +78,6 @@
 
 <table width="100%">
   <tr>
-    <td>
-      <h3>⭐ More Projects</h3>
-      <p>
-        <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" />
-        <img src="https://img.shields.io/badge/Kubernetes-0d1b2a?style=for-the-badge&logo=kubernetes&logoColor=326ce5" alt="Kubernetes" />
-        <img src="https://img.shields.io/badge/Mobile_Apps-0d1b2a?style=for-the-badge&logo=android&logoColor=3ddc84" alt="Mobile Apps" />
-        <img src="https://img.shields.io/badge/Security-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="Security" />
-        <a href="https://github.com/ElectricRoyale?tab=repositories"><img src="https://img.shields.io/badge/And_more…-0d1b2a?style=for-the-badge" alt="And more" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### Github Stats
-![GitHub Stats Card](https://ghstats.dev/api/card?username=ElectricRoyale&border_radius=50&hide=stars%2Cactive_day%2Cavg%2Cstreak%2Chours%2Cgrade)
-
-<table width="100%">
-  <tr>
     <td width="25%" valign="top" align="center">⚡<br /><b>Currently working on</b><br />Swimming Club Management System</td>
     <td width="25%" valign="top" align="center">🌱<br /><b>Currently learning</b><br />Securing a software backend and more…</td>
     <td width="25%" valign="top" align="center">🎯<br /><b>Goal</b><br />Reaching new skills</td>
