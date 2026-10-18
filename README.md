@@ -2,64 +2,58 @@
   <img src="assets/banner.png" alt="Electric Royale - Build apps, secure systems, explore ideas" width="100%" />
 </div>
 
+<h3>&lt;/&gt; Tech Stack</h3>
 <table width="100%">
   <tr>
+    <td nowrap><b>💻 Languages</b></td>
     <td>
-      <h3>&lt;/&gt; Tech Stack</h3>
-      <table width="100%">
-        <tr>
-          <td nowrap><b>💻 Languages</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Flutter-0d1b2a?style=for-the-badge&logo=flutter&logoColor=54c5f8" alt="Flutter" />
-            <img src="https://img.shields.io/badge/Java-0d1b2a?style=for-the-badge&logo=openjdk&logoColor=ff6b35" alt="Java" />
-            <img src="https://img.shields.io/badge/Kotlin-0d1b2a?style=for-the-badge&logo=kotlin&logoColor=b44dff" alt="Kotlin" />
-            <img src="https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=ffd43b" alt="Python" />
-            <img src="https://img.shields.io/badge/HTML-0d1b2a?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML" />
-            <img src="https://img.shields.io/badge/CSS-0d1b2a?style=for-the-badge&logo=css3&logoColor=2f9bff" alt="CSS" />
-            <img src="https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-          </td>
-        </tr>
-        <tr>
-          <td nowrap><b>⚙️ Tools</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
-            <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-            <img src="https://img.shields.io/badge/IntelliJ-0d1b2a?style=for-the-badge&logo=intellijidea&logoColor=ff318c" alt="IntelliJ" />
-            <img src="https://img.shields.io/badge/VS_Code-0d1b2a?style=for-the-badge&logo=visualstudiocode&logoColor=2f9bff" alt="VS Code" />
-            <img src="https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" />
-          </td>
-        </tr>
-        <tr>
-          <td nowrap><b>☁️ Services</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" />
-            <img src="https://img.shields.io/badge/Kubernetes-0d1b2a?style=for-the-badge&logo=kubernetes&logoColor=326ce5" alt="Kubernetes" />
-            <img src="https://img.shields.io/badge/PostgreSQL-0d1b2a?style=for-the-badge&logo=postgresql&logoColor=4f8dd9" alt="PostgreSQL" />
-            <img src="https://img.shields.io/badge/MySQL-0d1b2a?style=for-the-badge&logo=mysql&logoColor=00e5ff" alt="MySQL" />
-            <img src="https://img.shields.io/badge/NGINX-0d1b2a?style=for-the-badge&logo=nginx&logoColor=00e676" alt="NGINX" />
-            <img src="https://img.shields.io/badge/Redis-0d1b2a?style=for-the-badge&logo=redis&logoColor=ff4438" alt="Redis" />
-            <img src="https://img.shields.io/badge/RESTful_API-0d1b2a?style=for-the-badge&logo=swagger&logoColor=85ea2d" alt="RESTful API" />
-          </td>
-        </tr>
-        <tr>
-          <td nowrap><b>🛡️ Security</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/JWT-0d1b2a?style=for-the-badge&logo=jsonwebtokens&logoColor=ff4dd2" alt="JWT" />
-            <img src="https://img.shields.io/badge/Rate--Limiting-0d1b2a?style=for-the-badge&logo=cloudflare&logoColor=4f8dd9" alt="Rate-Limiting" />
-            <img src="https://img.shields.io/badge/Data_Encryption-0d1b2a?style=for-the-badge&logo=gnuprivacyguard&logoColor=ffffff" alt="Data Encryption" />
-            <img src="https://img.shields.io/badge/CSP--Header-0d1b2a?style=for-the-badge&logo=letsencrypt&logoColor=00e5ff" alt="CSP-Header" />
-            <img src="https://img.shields.io/badge/SQL--Injection-0d1b2a?style=for-the-badge&logo=owasp&logoColor=00e5ff" alt="SQL-Injection" />
-            <img src="https://img.shields.io/badge/XSS-0d1b2a?style=for-the-badge&logo=owasp&logoColor=b44dff" alt="XSS" />
-            <img src="https://img.shields.io/badge/Whitelisting_/_Blacklisting-0d1b2a?style=for-the-badge&logo=checkmarx&logoColor=ffffff" alt="Whitelisting / Blacklisting" />
-          </td>
-        </tr>
-        <tr>
-          <td nowrap><b>🌱 Currently Learning</b></td>
-          <td>
-            <img src="https://img.shields.io/badge/Securing_a_software_backend-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="Securing a software backend" />
-          </td>
-        </tr>
-      </table>
+      <img src="https://img.shields.io/badge/Flutter-0d1b2a?style=for-the-badge&logo=flutter&logoColor=54c5f8" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Java-0d1b2a?style=for-the-badge&logo=openjdk&logoColor=ff6b35" alt="Java" />
+      <img src="https://img.shields.io/badge/Kotlin-0d1b2a?style=for-the-badge&logo=kotlin&logoColor=b44dff" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=ffd43b" alt="Python" />
+      <img src="https://img.shields.io/badge/HTML-0d1b2a?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS-0d1b2a?style=for-the-badge&logo=css3&logoColor=2f9bff" alt="CSS" />
+      <img src="https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td nowrap><b>⚙️ Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+      <img src="https://img.shields.io/badge/IntelliJ-0d1b2a?style=for-the-badge&logo=intellijidea&logoColor=ff318c" alt="IntelliJ" />
+      <img src="https://img.shields.io/badge/VS_Code-0d1b2a?style=for-the-badge&logo=visualstudiocode&logoColor=2f9bff" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" />
+    </td>
+  </tr>
+  <tr>
+    <td nowrap><b>☁️ Services</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-0d1b2a?style=for-the-badge&logo=kubernetes&logoColor=326ce5" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0d1b2a?style=for-the-badge&logo=postgresql&logoColor=4f8dd9" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-0d1b2a?style=for-the-badge&logo=mysql&logoColor=00e5ff" alt="MySQL" />
+      <img src="https://img.shields.io/badge/NGINX-0d1b2a?style=for-the-badge&logo=nginx&logoColor=00e676" alt="NGINX" />
+      <img src="https://img.shields.io/badge/Redis-0d1b2a?style=for-the-badge&logo=redis&logoColor=ff4438" alt="Redis" />
+      <img src="https://img.shields.io/badge/RESTful_API-0d1b2a?style=for-the-badge&logo=swagger&logoColor=85ea2d" alt="RESTful API" />
+    </td>
+  </tr>
+  <tr>
+    <td nowrap><b>🛡️ Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JWT-0d1b2a?style=for-the-badge&logo=jsonwebtokens&logoColor=ff4dd2" alt="JWT" />
+      <img src="https://img.shields.io/badge/Rate--Limiting-0d1b2a?style=for-the-badge&logo=cloudflare&logoColor=4f8dd9" alt="Rate-Limiting" />
+      <img src="https://img.shields.io/badge/Data_Encryption-0d1b2a?style=for-the-badge&logo=gnuprivacyguard&logoColor=ffffff" alt="Data Encryption" />
+      <img src="https://img.shields.io/badge/CSP--Header-0d1b2a?style=for-the-badge&logo=letsencrypt&logoColor=00e5ff" alt="CSP-Header" />
+      <img src="https://img.shields.io/badge/SQL--Injection-0d1b2a?style=for-the-badge&logo=owasp&logoColor=00e5ff" alt="SQL-Injection" />
+      <img src="https://img.shields.io/badge/XSS-0d1b2a?style=for-the-badge&logo=owasp&logoColor=b44dff" alt="XSS" />
+      <img src="https://img.shields.io/badge/Whitelisting_/_Blacklisting-0d1b2a?style=for-the-badge&logo=checkmarx&logoColor=ffffff" alt="Whitelisting / Blacklisting" />
+    </td>
+  </tr>
+  <tr>
+    <td nowrap><b>🌱 Currently Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Securing_a_software_backend-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="Securing a software backend" />
     </td>
   </tr>
 </table>
