@@ -1,120 +1,157 @@
 <div align="center">
-  <img
-    src="assets/banner.png"
-    alt="Electric Royale - Mobile Development & Cybersecurity"
-    width="100%"
-  />
+  <img src="assets/banner.png" alt="Electric Royale - Build apps, secure systems, explore ideas" width="100%" />
 </div>
 
-<h1 align="center">Hey, I'm Electric Royale! 👋</h1>
-
-<p align="center">
-  <b>Mobile Developer · Tech Enthusiast · Cybersecurity Student</b>
-</p>
-
-<p align="center">
-  Building apps, securing systems and exploring new technologies.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏊 Swimming Club Management</h3>
-      <p>
-        A mobile application for managing club activities,
-        events, competitions, memberships and training attendance.
-      </p>
-      <p>
-        <code>Flutter</code>
-        <code>Kotlin</code>
-        <code>REST API</code>
-      </p>
-      <p>
-        <a href="https://app.sv-hockenheim.de">Visit Website ↗</a>
-      </p>
-      <sub>Source code is private.</sub>
+    <td>
+      <h3>&lt;/&gt; Tech Stack</h3>
+      <table width="100%">
+        <tr>
+          <td nowrap><b>💻 Languages</b></td>
+          <td>
+            <img src="https://img.shields.io/badge/Flutter-0d1b2a?style=for-the-badge&logo=flutter&logoColor=54c5f8" alt="Flutter" />
+            <img src="https://img.shields.io/badge/Java-0d1b2a?style=for-the-badge&logo=openjdk&logoColor=ff6b35" alt="Java" />
+            <img src="https://img.shields.io/badge/Kotlin-0d1b2a?style=for-the-badge&logo=kotlin&logoColor=b44dff" alt="Kotlin" />
+            <img src="https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=ffd43b" alt="Python" />
+            <img src="https://img.shields.io/badge/HTML-0d1b2a?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML" />
+            <img src="https://img.shields.io/badge/CSS-0d1b2a?style=for-the-badge&logo=css3&logoColor=2f9bff" alt="CSS" />
+            <img src="https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+          </td>
+        </tr>
+        <tr>
+          <td nowrap><b>⚙️ Tools</b></td>
+          <td>
+            <img src="https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
+            <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+            <img src="https://img.shields.io/badge/IntelliJ-0d1b2a?style=for-the-badge&logo=intellijidea&logoColor=ff318c" alt="IntelliJ" />
+            <img src="https://img.shields.io/badge/VS_Code-0d1b2a?style=for-the-badge&logo=visualstudiocode&logoColor=2f9bff" alt="VS Code" />
+            <img src="https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" />
+          </td>
+        </tr>
+        <tr>
+          <td nowrap><b>☁️ Services</b></td>
+          <td>
+            <img src="https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" />
+            <img src="https://img.shields.io/badge/Kubernetes-0d1b2a?style=for-the-badge&logo=kubernetes&logoColor=326ce5" alt="Kubernetes" />
+            <img src="https://img.shields.io/badge/PostgreSQL-0d1b2a?style=for-the-badge&logo=postgresql&logoColor=4f8dd9" alt="PostgreSQL" />
+            <img src="https://img.shields.io/badge/MySQL-0d1b2a?style=for-the-badge&logo=mysql&logoColor=00e5ff" alt="MySQL" />
+            <img src="https://img.shields.io/badge/NGINX-0d1b2a?style=for-the-badge&logo=nginx&logoColor=00e676" alt="NGINX" />
+            <img src="https://img.shields.io/badge/Redis-0d1b2a?style=for-the-badge&logo=redis&logoColor=ff4438" alt="Redis" />
+            <img src="https://img.shields.io/badge/RESTful_API-0d1b2a?style=for-the-badge&logo=swagger&logoColor=85ea2d" alt="RESTful API" />
+          </td>
+        </tr>
+        <tr>
+          <td nowrap><b>🛡️ Security</b></td>
+          <td>
+            <img src="https://img.shields.io/badge/JWT-0d1b2a?style=for-the-badge&logo=jsonwebtokens&logoColor=ff4dd2" alt="JWT" />
+            <img src="https://img.shields.io/badge/Rate--Limiting-0d1b2a?style=for-the-badge&logo=cloudflare&logoColor=4f8dd9" alt="Rate-Limiting" />
+            <img src="https://img.shields.io/badge/Data_Encryption-0d1b2a?style=for-the-badge&logo=gnuprivacyguard&logoColor=ffffff" alt="Data Encryption" />
+            <img src="https://img.shields.io/badge/CSP--Header-0d1b2a?style=for-the-badge&logo=letsencrypt&logoColor=00e5ff" alt="CSP-Header" />
+            <img src="https://img.shields.io/badge/SQL--Injection-0d1b2a?style=for-the-badge&logo=owasp&logoColor=00e5ff" alt="SQL-Injection" />
+            <img src="https://img.shields.io/badge/XSS-0d1b2a?style=for-the-badge&logo=owasp&logoColor=b44dff" alt="XSS" />
+            <img src="https://img.shields.io/badge/Whitelisting_/_Blacklisting-0d1b2a?style=for-the-badge&logo=checkmarx&logoColor=ffffff" alt="Whitelisting / Blacklisting" />
+          </td>
+        </tr>
+        <tr>
+          <td nowrap><b>🌱 Currently Learning</b></td>
+          <td>
+            <img src="https://img.shields.io/badge/Securing_a_software_backend-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="Securing a software backend" />
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
-      <h3>🏠 Home Assistant Dashboard</h3>
+  </tr>
+</table>
+<h3>📁 Featured Projects</h3>
+<table width="100%" style="table-layout: fixed; border-spacing: 12px 0; margin: 0 -12px;">
+   <colgroup>
+    <col style="width: 50%">
+    <col style="width: 50%">
+  </colgroup>
+  <tr style="border:none;">
+    <td style="border:none;">
+      <table width="100%">
+        <tr>
+          <td>
+            <h4>📱 Swimming Club Management System</h4>
+          </td>
+          <td>
+            <div style="border: 1px solid #0039a2; 
+            border-radius: 50px; 
+            background: #002a938f; 
+            width: max-content;
+            padding-inline: 10px;">
+              🔒Private
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="border:none;">
+      <h4>🏠 Custom Home Assistant Dashboard</h4>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;">
       <p>
-        A custom dashboard for retrieving smart-home data
-        and controlling devices through the Home Assistant REST API.
+        Application written in Flutter (frontend) and Kotlin (backend) to digitalize club management.
+        Handles registration for club events and competitions, member management, training attendance and more.
       </p>
-      <p>
-        <code>Home Assistant</code>
-        <code>REST API</code>
-        <code>Smart Home</code>
-      </p>
-      <sub>Personal project.</sub>
+        <a href="https://app.sv-hockenheim.de">🔗 Website</a> ·
+        <a href="mailto:demo@sv-hockenheim.de">▶ Demo</a>
+    </td>
+    <td style="border:none; vertical-align: top;">
+      A custom-built Home Assistant dashboard that uses the HA RESTful API
+      to fetch data and control smart-home devices.
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;">
+      <img src="https://img.shields.io/badge/Flutter-0d1b2a?style=flat-square&logo=flutter&logoColor=54c5f8" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Kotlin-0d1b2a?style=flat-square&logo=kotlin&logoColor=b44dff" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Mobile-0d1b2a?style=flat-square&logo=android&logoColor=3ddc84" alt="Mobile" />
+        <img src="https://img.shields.io/badge/Backend-0d1b2a?style=flat-square&logo=spring&logoColor=6db33f" alt="Backend" />
+    </td>
+    <td style="border:none;">
+      <img src="https://img.shields.io/badge/Home_Assistant-0d1b2a?style=flat-square&logo=homeassistant&logoColor=18bcf2" alt="Home Assistant" />
+        <img src="https://img.shields.io/badge/JavaScript-0d1b2a?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/API-0d1b2a?style=flat-square&logo=swagger&logoColor=85ea2d" alt="API" />
+        <img src="https://img.shields.io/badge/Smart_Home-0d1b2a?style=flat-square" alt="Smart Home" />
     </td>
   </tr>
 </table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElectricRoyale&show_icons=true&theme=tokyonight)
+<table width="100%">
+  <tr>
+    <td>
+      <h3>⭐ More Projects</h3>
+      <p>
+        <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-0d1b2a?style=for-the-badge&logo=kubernetes&logoColor=326ce5" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Mobile_Apps-0d1b2a?style=for-the-badge&logo=android&logoColor=3ddc84" alt="Mobile Apps" />
+        <img src="https://img.shields.io/badge/Security-0d1b2a?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="Security" />
+        <a href="https://github.com/ElectricRoyale?tab=repositories"><img src="https://img.shields.io/badge/And_more…-0d1b2a?style=for-the-badge" alt="And more" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-# Hey, ich bin Electric Royale! 👋
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top" align="center">⚡<br /><b>Currently working on</b><br />Swimming Club Management System</td>
+    <td width="25%" valign="top" align="center">🌱<br /><b>Currently learning</b><br />Securing a software backend and more…</td>
+    <td width="25%" valign="top" align="center">🎯<br /><b>Goal</b><br />Reaching new skills</td>
+    <td width="25%" valign="top" align="center">⭐<br /><b>Fun fact</b><br />I started developing on vacation, taught by a friend 😄</td>
+  </tr>
+</table>
 
-### 💻 Developer | Tech Enthusiast | Problem Solver | Cyber Security Student
+<p align="center">
+  <a href="https://github.com/ElectricRoyale"><img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Mail-0d1b2a?style=for-the-badge&logo=gmail&logoColor=ff4438" alt="Mail" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-0d1b2a?style=for-the-badge&logo=discord&logoColor=5865f2" alt="Discord" /></a>
+</p>
 
-Welcome to my Github-Profile! 🚀
-
-My interest are software development, moderne technologies, network security, 
-cryptography, white hat hacking (hack-the-box) and developing own projects.
-
-Here you can find my projects and my experiments.
-
----
-
-### 🛠️ Tech Stack
-
-- 💻 Languages: `Flutter`, `Java`, `Kotlin`, `Python`, `HTML`, `CSS`, `JavaScript`
-- ⚙️ Tools: `Git`, `GitHub`, `IntelliJ`|`VS Code`, `Docker`
-- 🛠️ Services: `Docker`, `Kubernetes`, `PostgreSQL`, `MySQL`, `NGINX`, `Redis`, `RESTful-API`
-- ⛓️ Security: `JWT-Authentication`, `Rate-Limiting`, `Data encryption`, `CSP-Header`, `SQL-Injection`, `XSS`, `Whitelisting/Blacklisting`
-- 🌱 Currently Learning: `Securing a software backend`
-
----
-
-### 🚀 Featured Projects
-
-🔹 **Project 1**
-Swimming club management system: Application writen in Flutter (Frontend) and Kontlin (Backend) to
-digitalize the club management. In the app registration for club events, competitions, member management, 
-training attandence and much more gets handdled. (Repo is private for marketing reasons) (Webseite: app.sv-hockenheim.de; Demo: demo@sv-hockenheim.de)
-
-🔹 **Project 2**
-Custom Home Assistant Dashboard:An own customize HA dashboard using the HA RESTful-Api to get data and control
-samrt home devices
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElectricRoyale&show_icons=true&theme=tokyonight)
-
----
-
-### 💬 About Me
-
-- 🔭 Currently working on: Swimming Club Management system
-- 🌱 Currently learning: 
-- 🎯 Goal: Reaching new skills
-- ⚡ Fun fact: I have starting developing on vacation teached by a friend
-
----
-
-⭐ Be invited to take a look at my repositories!
+<p align="center"><i>Thanks for visiting my profile! 👑</i><br /><sub>Better Apps. Safer Tomorrow.</sub></p>
