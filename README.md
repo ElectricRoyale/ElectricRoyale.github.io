@@ -92,6 +92,9 @@
   </tr>
 </table>
 
+### Github Stats
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ElectricRoyale&border_radius=50&hide=stars%2Cactive_day%2Cavg%2Cstreak%2Chours%2Cgrade)
+
 <table width="100%">
   <tr>
     <td width="25%" valign="top" align="center">⚡<br /><b>Currently working on</b><br />Swimming Club Management System</td>
